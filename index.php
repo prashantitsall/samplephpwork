@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Bashir Bhai Lunch karne jaao</h1>
+<h1>Happy Friendship Day to All</h1>
 
 <?php
 echo "version :Rev Ver";
